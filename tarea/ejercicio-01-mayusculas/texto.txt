@@ -1,0 +1,3 @@
+Este laboratorio utiliza streams de Node.js.
+Los streams permiten procesar información de manera eficiente.
+Estamos desarrollando la tarea de la semana 3.
